@@ -15,6 +15,11 @@ $_['tab_general']        = 'General';
 $_['tab_order_status']   = 'Order Status';
 
 // Entry
+$_['entry_username']     = 'API Username:';
+$_['entry_password']     = 'API Password:';
+$_['entry_signature']    = 'API Signature:';
+$_['entry_test']         = 'Test Mode:';
+$_['entry_transaction']  = 'Transaction Method:';
 $_['entry_client_id']    = 'Client ID:';
 $_['entry_secret']       = 'Secret:';
 $_['entry_sandbox']      = 'Sandbox Mode:';
